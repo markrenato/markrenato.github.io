@@ -799,7 +799,7 @@ $$(document).on("page:init", '.page[data-name="evento"]', function (page) {
 
 $$(document).on("page:init", '.page[data-name="cobertura"]', function (e) {
   var photoBrowserDark = app.photoBrowser.create({
-    photos: ["img/coberturas/cobertura/1.jpeg", "img/coberturas/cobertura/2.jpeg", "img/coberturas/cobertura/3.jpeg", "img/coberturas/cobertura/4.jpeg", "img/coberturas/cobertura/5.jpeg"],
+    photos: ["img/coberturas/cobertura/1-cafe.jpeg", "img/coberturas/cobertura/2.jpeg", "img/coberturas/cobertura/3.jpeg", "img/coberturas/cobertura/4.jpeg"],
     theme: "dark",
     navbarOfText: "de",
   });
