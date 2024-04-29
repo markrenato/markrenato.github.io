@@ -821,7 +821,7 @@ $$(document).on("page:init", '.page[data-name="cobertura2"]', function (e) {
 
 $$(document).on("page:init", '.page[data-name="cobertura3"]', function (e) {
   var photoBrowserDark = app.photoBrowser.create({
-    photos: ["img/coberturas/cobertura3/1.jpeg", "img/coberturas/cobertura3/2.jpeg", "img/coberturas/cobertura3/3.jpeg", "img/coberturas/cobertura3/4.jpeg", "img/coberturas/cobertura3/5.jpeg"],
+    photos: ["img/coberturas/cobertura3/1.jpeg", "img/coberturas/cobertura3/2.jpeg", "img/coberturas/cobertura3/3.jpeg", "img/coberturas/cobertura3/4.jpeg", "img/coberturas/cobertura3/5.jpeg","img/coberturas/cobertura3/6.jpeg", "img/coberturas/cobertura3/7.jpeg", "img/coberturas/cobertura3/8.jpeg", "img/coberturas/cobertura3/9.jpeg", "img/coberturas/cobertura3/10.jpeg"],
     theme: "dark",
     navbarOfText: "de",
   });
