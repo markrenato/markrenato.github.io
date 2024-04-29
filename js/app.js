@@ -810,7 +810,7 @@ $$(document).on("page:init", '.page[data-name="cobertura"]', function (e) {
 
 $$(document).on("page:init", '.page[data-name="cobertura2"]', function (e) {
   var photoBrowserDark = app.photoBrowser.create({
-    photos: ["img/coberturas/cobertura2/1.jpeg", "img/coberturas/cobertura2/2.jpeg", "img/coberturas/cobertura2/3.jpeg", "img/coberturas/cobertura2/4.jpeg", "img/coberturas/cobertura2/5.jpeg"],
+    photos: ["img/coberturas/cobertura2/1-adesivaco.jpeg", "img/coberturas/cobertura2/2.jpeg", "img/coberturas/cobertura2/3.jpeg", "img/coberturas/cobertura2/4.jpeg", "img/coberturas/cobertura2/5.jpeg","img/coberturas/cobertura2/6.jpeg", "img/coberturas/cobertura2/7.jpeg", "img/coberturas/cobertura2/8.jpeg", "img/coberturas/cobertura2/9.jpeg"],
     theme: "dark",
     navbarOfText: "de",
   });
